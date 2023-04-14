@@ -1,0 +1,36 @@
+/* ASSIGNMENT */
+
+/* background-color
+background-image
+background-repeat
+background-attachment
+background-position
+background-size */
+
+
+/* list-style-type
+list-style-image
+list-style-position
+
+text-decoration
+text-transform
+text-align
+
+font-size
+font-style
+font-weight */
+
+
+/* ul{
+    background-color: red;
+}
+h1{
+    background-color: yellow;
+} */
+
+body{
+    background-color: red;
+}
+section{
+    background-image: url(images/highrise.webp);
+}
